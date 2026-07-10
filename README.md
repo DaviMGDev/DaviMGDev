@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,docker,python,go,django,fastapi,linux,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,docker,python,go,django,fastapi,linux,mysql,postgres,git" alt="Tech stack icons" />
 </p>
 
 ---
@@ -24,12 +24,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviMGDev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMGDev&layout=compact&theme=dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaviMGDev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="DaviMGDev's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaviMGDev&layout=compact&theme=dark&hide_border=true&count_private=true" height="170" alt="Top languages used by DaviMGDev" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DaviMGDev&theme=dark&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=DaviMGDev&theme=dark&hide_border=true" height="170" alt="DaviMGDev's GitHub streak stats" />
 </p>
 
 ---
@@ -37,5 +37,5 @@
 ### 🔥 Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviMGDev&theme=github-dark&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviMGDev&theme=github-dark&hide_border=true&area=true" width="95%" alt="DaviMGDev's recent GitHub activity graph" />
 </p>
